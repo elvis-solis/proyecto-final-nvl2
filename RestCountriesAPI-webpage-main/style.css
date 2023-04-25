@@ -1,0 +1,16 @@
+.estilodeletra {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+.tamañodetitulo{
+    font-size: 20px;
+}
+
+.textodetitulo{
+    font-size: 24px;
+}
+.textodesubtitulo{
+    font-size: 14px;
+    padding: 0px;
+    margin: 4px;
+}
